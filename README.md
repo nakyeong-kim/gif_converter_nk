@@ -10,9 +10,9 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install gif-converter-nk --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+['repository'](https://github.com/nakyeong-kim/gif_converter_nk.git)
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
