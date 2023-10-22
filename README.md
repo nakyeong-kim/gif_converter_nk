@@ -19,7 +19,7 @@ $ pip install git+https://github.com/nakyeong-kim/gif_converter_nk.git
 
 ## Quick start
 ```python
- >>> from pygifconvt.converter import GifConverter
+ >>> from gif_converter_nk.gif_converter import GifConverter
  >>> c = GifConverter("your original images path", 'your gif output path', (320,240))
  >>> c.convert_gif()
 ```
