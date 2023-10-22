@@ -12,7 +12,7 @@ Download using pip via pypi.
 ```bash
 $ pip install gif-converter-nk --upgrade
   or
-$ pip install git+['repository'](https://github.com/nakyeong-kim/gif_converter_nk.git)
+$ pip install git+https://github.com/nakyeong-kim/gif_converter_nk.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
